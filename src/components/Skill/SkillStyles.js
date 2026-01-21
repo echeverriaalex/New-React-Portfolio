@@ -20,7 +20,7 @@ export const SkillContainerStyled = styled(motion.div)`
     width: 180px;
     height: 180px;
 
-    transition: all 1s ease-in-out;
+    transition: all .2s ease-in-out;
 
     
 
@@ -43,7 +43,7 @@ export const SkillContainerStyled = styled(motion.div)`
 
     &:hover{
         box-shadow: 0 4px 8px rgba(199, 19, 19, 0.84);
-        scale: 1.5;
+        //scale: 1.1;
         background-color: #03492e;
     }
 
