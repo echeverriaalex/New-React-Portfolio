@@ -27,10 +27,13 @@ export const GlobalStyles = createGlobalStyle`
         //background:rgb(23, 23, 24);
         //background: radial-gradient( #555555, #222222);
         
+        /*
         display: flex;
         flex-direction: column;
         align-items: center;
         justify-content: center;
+        */
+       
         background: var(--bg-blue);        
         min-height: 100vh;
     }
